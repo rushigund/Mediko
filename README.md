@@ -1,4 +1,6 @@
-Solution Provided by my project:
+## Mediko (Android application for medical emergency)
+
+## Solution Provided by my project:
 
 1.	An application of ambulance/health center where they can register their center with location
 2.	An Application for user in which a service is provided to call ambulance
@@ -10,14 +12,16 @@ Along user details
 5.	If center accepts request, he will be redirected to google maps along with drive location to user/incident.
 •	Note: Only one center can accept request (first one to accept)
 
+## Requirements
+- Java (version - 8)
+- Android studio
+- Python (version – 3.9)
 
-
-
-**SYSTEM ARCHITECTURE**
+## SYSTEM ARCHITECTURE
 
 ![image](https://github.com/user-attachments/assets/8399cd59-51ea-46ca-bb07-bcab8f0faa57)
 
-The system consists of three components.
+## The system consists of three components.
 
 1. The android app: The android app is the front end and that is what  the user is going to interact with.
 
